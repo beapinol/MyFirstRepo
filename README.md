@@ -1,2 +1,3 @@
 # MyFirstRepo
-My first repository in GitHub
+## Practicing the pull command
+This is my initial edition from GitHub.
